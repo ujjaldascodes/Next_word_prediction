@@ -1,8 +1,11 @@
-tensorflow==2.15.0
-pandas 
-numpy 
-scikit-learn
-tensorboard
+ipykernel
+numpy
+pandas
 matplotlib
+seaborn
+flask
+memory_profiler
 streamlit
+scikit-learn
+tesnsorslow
 scikeras
